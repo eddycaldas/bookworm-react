@@ -1,5 +1,5 @@
 ESLint allow developers to discover problems with their JavaScript code without executing it.
-
+Semantic UI React
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
